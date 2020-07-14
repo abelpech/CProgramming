@@ -12,8 +12,6 @@
 * 3) Remove duplicate strings. If there are repeating strings in the argument *
 *    list, let's not show it in the final output.                             *
 *                                                                             *
-*  Trainer - Derek Nham                                                       *
-*  Trainee - Abel Pech                                                        *
 ******************************************************************************/
 
 #include <stdio.h>
